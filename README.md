@@ -3,7 +3,7 @@
 
 ![фото](https://github.com/KrasovskiyAV/About-me/blob/main/IMG-20210704-WA0019.jpg?raw=true)
 
-Я учусь в Нетологии на направлении ["Тестировщик ПО"](https://netology.ru/programs/qa#/). На данный момент окончил модуль "Ручное тестирование веб-приложений" ([Свидетельство](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/252664/5264c40e6d26b9e55eb674784aa56297.png?ts=1676137887)). И как вы видите, уже познакомился с Git и GitHub.
+Я учусь в Нетологии на направлении ["Тестировщик ПО"](https://netology.ru/programs/qa#/). На данный момент окончил модули "Ручное тестирование веб-приложений" ([Свидетельство](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/252664/5264c40e6d26b9e55eb674784aa56297.png?ts=1676137887)) и "Git - система контроля версий" ([Свидетельство](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/268785/8dc2cc55a871ce1d1a518f6278b0bcc5.png?ts=1679385067)).
 
 Hard skills:
 - знание методов и видов тестирования
